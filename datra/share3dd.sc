@@ -18,3 +18,5 @@ structure
 4 /animation/idle.anim
 5 /animation/attack.anim
 6 /sounds/slash.wav
+7 /OIP.jpg
+8 /OIP.webp
