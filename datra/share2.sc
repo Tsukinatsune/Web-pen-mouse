@@ -10,7 +10,7 @@ pill
 1 Warrior
 tags
 1 melee, stealth, shadow, tank
-previewImages /preview/01.png, /preview/02.png
+previewImages /OIP.jpg, /preview/02.png
 structure
 1 /models/warrior.gltf
 2 /textures/body.png
