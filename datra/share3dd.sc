@@ -17,6 +17,6 @@ structure
 3 /textures/face.png
 4 /animation/idle.anim
 5 /animation/attack.anim
-6 /sounds/slash.wav
+6 /sounds/slash/dadad.wav/adada.test
 7 /OIP.jpg
 8 /OIP.webp
