@@ -12,11 +12,5 @@ tags
 1 melee, stealth, shadow, tank
 previewImages /OIP.jpg, /OIP.webp
 structure
-1 /models/warrior.gltf
-2 /textures/body.png
-3 /textures/face.png
-4 /animation/idle.anim
-5 /animation/attack.anim
-6 /sounds/slash/dadad.wav/adada.test
 7 /OIP.jpg
 8 /OIP.webp
