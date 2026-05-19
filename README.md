@@ -1,1 +1,1 @@
-# Web-pen-mouse
+# A default template for csctsukinatsune
