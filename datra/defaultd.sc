@@ -14,3 +14,4 @@ previewImages /datra/Screenshot%202026-05-19%20210753.png, /datra/Screenshot%202
 structure
 1 /studioChat.html
 2 /datra/StudioChatAPI.js
+3 /logo/jdkqd/dqwfq,
