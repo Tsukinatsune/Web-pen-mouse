@@ -13,3 +13,4 @@ tags
 previewImages /datra/Screenshot%202026-05-19%20210753.png, /datra/Screenshot%202026-05-19%20210648.png
 structure
 1 /studioChat.html
+2 /datra/foldercase.md
