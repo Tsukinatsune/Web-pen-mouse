@@ -15,5 +15,5 @@ structure
 1 /studioChat.html
 2 /StudioChatAPI.js
 3 /incasenotfound.txt
-4 /template.sc
-5 /template.md
+4 /template_profile.sc
+5 /template_profile.md
