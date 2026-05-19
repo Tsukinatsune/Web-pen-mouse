@@ -11,6 +11,6 @@ pill
 2 test
 tags
 1 Template, Default, Chat
-previewImages /datra/Screenshot%202026-05-19%20210753.png, 
+previewImages /datra/Screenshot%202026-05-19%20210753.png, /datra/Screenshot%202026-05-19%20210648.png
 structure
 1 /studioChat.html
