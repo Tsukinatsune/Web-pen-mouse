@@ -13,5 +13,6 @@ tags
 previewImages /datra/Screenshot%202026-05-19%20210753.png, /datra/Screenshot%202026-05-19%20210648.png
 structure
 1 /studioChat.html
-2 /datra/StudioChatAPI.js
-3 /logo/jdkqd/dqwfq,
+2 /StudioChatAPI.js
+3 /incasenotfound.txt
+4 /template.sc
