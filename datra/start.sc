@@ -17,3 +17,4 @@ structure
 3 /incasenotfound.txt
 4 /template.sc
 5 /template.md
+6 /../exploit!
