@@ -8,9 +8,9 @@ description_en
 1 Template for default chat
 pill
 1 Default
-2 test
 tags
-1 Template, Default, Chat
+1 Template, Default, Chat, API
 previewImages /datra/Screenshot%202026-05-19%20210753.png, /datra/Screenshot%202026-05-19%20210648.png
 structure
 1 /studioChat.html
+2 /datra/StudioChatAPI.js
